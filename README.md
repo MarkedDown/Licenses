@@ -9,7 +9,10 @@
 
 <br>
 
+*Select your **License** from*
+
 [![Badge GNU]][GNU]
+[![Badge CC]][CC]
 
 <br>
 
@@ -47,9 +50,13 @@
 <!----------------------------------{ Licenses }------------------------------->
 
 [GNU]: Licenses/GNU.md
+[CC]: Licenses/Creative%20Commons.md
 
 
 <!----------------------------------{ Badges }--------------------------------->
 
 [Badge GNU]: https://img.shields.io/badge/GNU-blue?style=for-the-badge&logo=GNU&logoColor=white
+[Badge CC]: https://img.shields.io/badge/GNU-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white
+
+
 
