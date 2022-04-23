@@ -11,9 +11,10 @@
 
 *Select your **License** from*
 
-[![Badge GNU]][GNU]
-[![Badge CC]][CC]
-[![Badge MIT]][MIT]
+[![Badge GNU]][GNU] 
+[![Badge CC]][CC] 
+[![Badge MIT]][MIT] 
+[![Badge BSD]][BSD]
 
 <br>
 
@@ -52,6 +53,7 @@
 
 [GNU]: Licenses/GNU.md
 [MIT]: Licenses/MIT.md
+[BSD]: Licenses/BSD.md
 [CC]: Licenses/CreativeCommons.md
 
 
@@ -59,6 +61,7 @@
 
 [Badge GNU]: https://img.shields.io/badge/GNU-blue?style=for-the-badge&logo=GNU&logoColor=white
 [Badge MIT]: https://img.shields.io/badge/MIT-yellow?style=for-the-badge
+[Badge BSD]: https://img.shields.io/badge/BSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white
 [Badge CC]: https://img.shields.io/badge/CC-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white
 
 
