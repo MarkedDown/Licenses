@@ -13,6 +13,7 @@
 
 [![Badge GNU]][GNU]
 [![Badge CC]][CC]
+[![Badge MIT]][MIT]
 
 <br>
 
@@ -50,12 +51,14 @@
 <!----------------------------------{ Licenses }------------------------------->
 
 [GNU]: Licenses/GNU.md
+[MIT]: Licenses/MIT.md
 [CC]: Licenses/CreativeCommons.md
 
 
 <!----------------------------------{ Badges }--------------------------------->
 
 [Badge GNU]: https://img.shields.io/badge/GNU-blue?style=for-the-badge&logo=GNU&logoColor=white
+[Badge MIT]: https://img.shields.io/badge/MIT-yellow?style=for-the-badge
 [Badge CC]: https://img.shields.io/badge/CC-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white
 
 
