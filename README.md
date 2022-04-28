@@ -14,8 +14,7 @@
 [![Badge GNU]][GNU] 
 [![Badge CC]][CC] 
 [![Badge MIT]][MIT] 
-[![Badge BSD]][BSD]
-
+[![Badge BSD]][BSD]<br>
 [![Badge Mozilla]][Mozilla] 
 [![Badge Boost]][Boost] 
 [![Badge Apache]][Apache]
@@ -47,11 +46,39 @@
 ```markdown
 [License]: COPYING
 ```
-         
+	
+<br>
+	
+---
+	
+<br>
+	
+### Example
+
 </div>
 
+	
+```markdown
+
+# My Project [![Badge License]][License]
 
 
+
+<!-- README Content -->
+
+
+
+<!----------------------------------------------------------------------------->
+
+[License]: LICENSE
+
+
+<!----------------------------------[ Badges ]--------------------------------->
+
+[Badge License]: https://img.shields.io/badge/License-GPL_3-blue.svg?style=for-the-badge
+
+```
+         
 
 <!----------------------------------{ Licenses }------------------------------->
 
