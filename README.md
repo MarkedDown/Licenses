@@ -5,10 +5,6 @@
 
 <br>
 
----
-
-<br>
-
 *Select your **License** from*
 
 [![Badge GNU]][GNU] 
