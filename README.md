@@ -14,7 +14,8 @@
 [![Badge Mozilla]][Mozilla] 
 [![Badge Boost]][Boost] 
 [![Badge Apache]][Apache]<br>
-[![Badge Eclipse]][Eclipse]
+[![Badge Eclipse]][Eclipse] 
+[![Badge Hippocratic]][Hippocratic]
 
 <br>
 
@@ -83,6 +84,7 @@
 
 <!----------------------------------{ Licenses }------------------------------->
 
+[Hippocratic]: Licenses/Hippocratic.md
 [Mozilla]: Licenses/Mozilla.md
 [Eclipse]: Licenses/Eclipse.md
 [Apache]: Licenses/Apache.md
@@ -95,6 +97,7 @@
 
 <!----------------------------------{ Badges }--------------------------------->
 
+[Badge Hippocratic]: https://img.shields.io/badge/Hippocratic-333?style=for-the-badge
 [Badge Eclipse]: https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white
 [Badge Mozilla]: https://img.shields.io/badge/Mozilla-FF7139?style=for-the-badge&logo=mozilla&logoColor=white
 [Badge Apache]: https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white
