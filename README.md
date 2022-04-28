@@ -39,6 +39,10 @@
 ```markdown
 [License]: LICENSE
 ```
+	
+```markdown
+[License]: LICENSE.md
+```
 
 ```markdown
 [License]: COPYING
