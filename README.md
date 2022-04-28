@@ -18,7 +18,8 @@
 [![Badge ISC]][ISC] 
 [![Badge Hippocratic]][Hippocratic]<br>
 [![Badge IBM]][IBM] 
-[![Badge Unlicense]][Unlicense]
+[![Badge Unlicense]][Unlicense] 
+[![Badge ZLib]][ZLib]
 
 <br>
 
@@ -93,6 +94,7 @@
 [Eclipse]: Licenses/Eclipse.md
 [Apache]: Licenses/Apache.md
 [Boost]: Licenses/Boost.md
+[ZLib]: Licenses/ZLib.md
 [GNU]: Licenses/GNU.md
 [MIT]: Licenses/MIT.md
 [IBM]: Licenses/IBM.md
@@ -112,6 +114,7 @@
 [Badge GNU]: https://img.shields.io/badge/GNU-blue?style=for-the-badge&logo=GNU&logoColor=white
 [Badge MIT]: https://img.shields.io/badge/MIT-yellow?style=for-the-badge
 [Badge ISC]: https://img.shields.io/badge/ISC-0080c4?style=for-the-badge
+[Badge ZLib]: https://img.shields.io/badge/ZLib-255525?style=for-the-badge
 [Badge IBM]: https://img.shields.io/badge/IBM-1261FE?style=for-the-badge&logo=IBM&logoColor=white
 [Badge BSD]: https://img.shields.io/badge/BSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white
 [Badge CC]: https://img.shields.io/badge/CC-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white
