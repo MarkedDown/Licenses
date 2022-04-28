@@ -15,9 +15,9 @@
 [![Badge Boost]][Boost] 
 [![Badge Apache]][Apache]<br>
 [![Badge Eclipse]][Eclipse] 
-[![Badge IBM]][IBM] 
-[![Badge Hippocratic]][Hippocratic]<br>
 [![Badge ISC]][ISC] 
+[![Badge Hippocratic]][Hippocratic]<br>
+[![Badge IBM]][IBM] 
 [![Badge Unlicense]][Unlicense]
 
 <br>
