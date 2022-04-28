@@ -14,8 +14,10 @@
 [![Badge GNU]][GNU] 
 [![Badge CC]][CC] 
 [![Badge MIT]][MIT] 
-[![Badge BSD]][BSD] 
+[![Badge BSD]][BSD]
+
 [![Badge Mozilla]][Mozilla] 
+[![Badge Boost]][Boost] 
 [![Badge Apache]][Apache]
 
 <br>
@@ -54,7 +56,8 @@
 <!----------------------------------{ Licenses }------------------------------->
 
 [Mozilla]: Licenses/Mozilla.md
-[Apache]: Licenses:Apache.md
+[Apache]: Licenses/Apache.md
+[Boost]: Licenses/Boost.md
 [GNU]: Licenses/GNU.md
 [MIT]: Licenses/MIT.md
 [BSD]: Licenses/BSD.md
@@ -69,4 +72,4 @@
 [Badge MIT]: https://img.shields.io/badge/MIT-yellow?style=for-the-badge
 [Badge BSD]: https://img.shields.io/badge/BSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white
 [Badge CC]: https://img.shields.io/badge/CC-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white
-
+[Badge Boost]: https://img.shields.io/badge/Boost-88c1cf?style=for-the-badge
