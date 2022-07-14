@@ -66,24 +66,23 @@
 
 	
 ```markdown
-
 # My Project [![Badge License]][License]
 
 
 
 <!-- README Content -->
-
-
-
+```
+```markdown
 <!----------------------------------------------------------------------------->
-
+```
+```markdown
 [License]: LICENSE
-
-
+```
+```markdown
 <!----------------------------------[ Badges ]--------------------------------->
-
+```
+```markdown
 [Badge License]: https://img.shields.io/badge/License-GPL_3-blue.svg?style=for-the-badge
-
 ```
          
 
