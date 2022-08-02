@@ -14,7 +14,7 @@
 ```
 	
 ```markdown
-[Badge License]: https://img.shields.io/badge/License-Hippocratic_3.0-333?style=for-the-badge
+[Badge License]: https://img.shields.io/badge/Hippocratic-3.0-2f2f2f?style=for-the-badge&labelColor=555555
 ```
 
 <br>
@@ -28,7 +28,7 @@
 ```
 	
 ```markdown
-[Badge License]: https://img.shields.io/badge/License-Hippocratic_3.0-333?style=for-the-badge
+[Badge License]: https://img.shields.io/badge/Hippocratic-2.0-2f2f2f?style=for-the-badge&labelColor=555555
 ```
 
 <br>
@@ -42,7 +42,7 @@
 ```
 	
 ```markdown
-[Badge License]: https://img.shields.io/badge/License-Hippocratic_3.0-333?style=for-the-badge
+[Badge License]: https://img.shields.io/badge/Hippocratic-1.0-2f2f2f?style=for-the-badge&labelColor=555555
 ```
 
 </div>
