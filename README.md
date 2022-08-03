@@ -5,7 +5,7 @@
 
 <br>
 
-*Select your **License** from*
+*Select your* ***License***
 
 [![Badge GNU]][GNU] 
 [![Badge CC]][CC] 
@@ -23,67 +23,58 @@
 [![Badge OHL]][OHL]
 
 <br>
-
----
-
 <br>
 
-*Add the **Badge** with*
+*Adding the* ***Badge***
 
 ```markdown
 [![Badge License]][License]
 ```
 
 <br>
-
----
-
 <br>
 
-*Link your repository's **License** with*
+*Adding the* ***Link***
 
 ```markdown
 [License]: LICENSE
 ```
 	
-```markdown
-[License]: LICENSE.md
-```
-
-```markdown
-[License]: COPYING
-```
-	
+<br>
 <br>
 	
----
+## Example
 	
 <br>
-	
-### Example
 
 </div>
 
 	
 ```markdown
-# My Project [![Badge License]][License]
+# Project   [![Badge License]][License]
 
 
 
 <!-- README Content -->
 ```
+
 ```markdown
 <!----------------------------------------------------------------------------->
 ```
+
 ```markdown
 [License]: LICENSE
 ```
+
 ```markdown
 <!----------------------------------[ Badges ]--------------------------------->
 ```
+
 ```markdown
 [Badge License]: https://img.shields.io/badge/License-GPL_3-blue.svg?style=for-the-badge
 ```
+
+<br>
          
 
 <!----------------------------------{ Licenses }------------------------------->
