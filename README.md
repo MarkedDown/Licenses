@@ -3,13 +3,14 @@
 
 <div align = center>
 
+# Licenses
+
+<br>
+<br>
+
 [![Button Example]][Example]
 
 <br>
-<br>
-
-# Licenses
-
 <br>
 
 *Select your* ***License***
@@ -50,7 +51,6 @@
 </div>
 
 <br>
-
 
 
 <!----------------------------------------------------------------------------->
