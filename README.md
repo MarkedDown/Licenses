@@ -1,6 +1,13 @@
 
-<div align = 'center'>
-         
+<br>
+
+<div align = center>
+
+[![Button Example]][Example]
+
+<br>
+<br>
+
 # Licenses
 
 <br>
@@ -40,42 +47,16 @@
 [License]: LICENSE
 ```
 	
-<br>
-<br>
-	
-## Example
-	
-<br>
-
 </div>
 
-	
-```markdown
-# Project   [![Badge License]][License]
-
-
-
-<!-- README Content -->
-```
-
-```markdown
-<!----------------------------------------------------------------------------->
-```
-
-```markdown
-[License]: LICENSE
-```
-
-```markdown
-<!----------------------------------[ Badges ]--------------------------------->
-```
-
-```markdown
-[Badge License]: https://img.shields.io/badge/License-GPL_3-blue.svg?style=for-the-badge
-```
-
 <br>
-         
+
+
+
+<!----------------------------------------------------------------------------->
+
+[Example]: Topics/Example.md
+
 
 <!----------------------------------{ Licenses }------------------------------->
 
@@ -111,3 +92,8 @@
 [Badge BSD]: https://img.shields.io/badge/BSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white
 [Badge OHL]: https://img.shields.io/badge/Open_Hardware-292961?style=for-the-badge&logo=Linux&logoColor=white
 [Badge CC]: https://img.shields.io/badge/CC-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white
+
+
+<!---------------------------------[ Buttons ]--------------------------------->
+
+[Button Example]: https://img.shields.io/badge/Example-419dff?style=for-the-badge&logoColor=white&logo=GitBook
