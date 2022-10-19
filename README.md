@@ -28,7 +28,8 @@
 [![Badge IBM]][IBM] 
 [![Badge Unlicense]][Unlicense] 
 [![Badge ZLib]][ZLib]<br>
-[![Badge OHL]][OHL]
+[![Badge OHL]][OHL] 
+[![Badge Vim]][Vim]
 
 <br>
 <br>
@@ -73,6 +74,7 @@
 [BSD]: Licenses/BSD.md
 [ISC]: Licenses/ISC.md
 [OHL]: Licenses/OHL.md
+[Vim]: Licenses/Vim.md
 [CC]: Licenses/CreativeCommons.md
 
 
@@ -91,6 +93,7 @@
 [Badge IBM]: https://img.shields.io/badge/IBM-1261FE?style=for-the-badge&logo=IBM&logoColor=white
 [Badge BSD]: https://img.shields.io/badge/BSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white
 [Badge OHL]: https://img.shields.io/badge/Open_Hardware-292961?style=for-the-badge&logo=Linux&logoColor=white
+[Badge Vim]: https://img.shields.io/badge/Vim-007f00?style=for-the-badge&logo=Vim&logoColor=white
 [Badge CC]: https://img.shields.io/badge/CC-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white
 
 
