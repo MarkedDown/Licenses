@@ -31,6 +31,7 @@
 [![Badge OHL]][OHL] 
 [![Badge Vim]][Vim]<br>
 [![Badge UPL]][UPL]
+[![Badge OSL]][OSL]
 
 <br>
 <br>
@@ -77,6 +78,7 @@
 [OHL]: Licenses/OHL.md
 [UPL]: Licenses/UPL.md
 [Vim]: Licenses/Vim.md
+[OSL]: Licenses/OSL.md
 [CC]: Licenses/CreativeCommons.md
 
 
@@ -95,10 +97,10 @@
 [Badge IBM]: https://img.shields.io/badge/IBM-1261FE?style=for-the-badge&logo=IBM&logoColor=white
 [Badge BSD]: https://img.shields.io/badge/BSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white
 [Badge OHL]: https://img.shields.io/badge/Open_Hardware-292961?style=for-the-badge&logo=Linux&logoColor=white
+[Badge OSL]: https://img.shields.io/badge/Open_Software-1F6B75?style=for-the-badge
 [Badge UPL]: https://img.shields.io/badge/UPL-4597cb?style=for-the-badge&logo=&logoColor=white
 [Badge Vim]: https://img.shields.io/badge/Vim-007f00?style=for-the-badge&logo=Vim&logoColor=white
 [Badge CC]: https://img.shields.io/badge/CC-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white
-
 
 <!---------------------------------[ Buttons ]--------------------------------->
 
