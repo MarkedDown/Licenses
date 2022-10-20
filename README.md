@@ -30,7 +30,7 @@
 [![Badge ZLib]][ZLib]<br>
 [![Badge OHL]][OHL] 
 [![Badge Vim]][Vim]<br>
-[![Badge UPL]][UPL]
+[![Badge UPL]][UPL] 
 [![Badge OSL]][OSL]
 
 <br>
