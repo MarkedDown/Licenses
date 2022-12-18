@@ -8,6 +8,9 @@
 <br>
 <br>
 
+[<img height = 800 width = 20% align = left  src = 'Resources/Spacer.svg' >][#]
+[<img height = 800 width = 20% align = right src = 'Resources/Spacer.svg' >][#]
+
 # Licenses
 
 *Badges for common licenses.*
