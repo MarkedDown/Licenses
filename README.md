@@ -1,7 +1,12 @@
-
 <br>
 
 <div align = center>
+
+[![Badge License]][License]   
+[![Badge Likes]][#]
+
+<br>
+<br>
 
 # Licenses
 
@@ -59,6 +64,8 @@
 <!----------------------------------------------------------------------------->
 
 [Example]: Topics/Example.md
+[License]: LICENSE
+[#]: #
 
 
 <!----------------------------------{ Licenses }------------------------------->
@@ -101,6 +108,10 @@
 [Badge UPL]: https://img.shields.io/badge/UPL-4597cb?style=for-the-badge&logo=&logoColor=white
 [Badge Vim]: https://img.shields.io/badge/Vim-007f00?style=for-the-badge&logo=Vim&logoColor=white
 [Badge CC]: https://img.shields.io/badge/CC-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white
+
+[Badge License]: https://img.shields.io/badge/-BY_SA_4.0-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
+[Badge Likes]: https://img.shields.io/github/stars/MarkedDown/Licenses?style=for-the-badge&labelColor=d0ab23&color=b0901e&logoColor=white&logo=Trustpilot
+
 
 <!---------------------------------[ Buttons ]--------------------------------->
 
