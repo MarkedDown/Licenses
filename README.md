@@ -10,6 +10,8 @@
 
 # Licenses
 
+*Badges for common licenses.*
+
 <br>
 <br>
 
